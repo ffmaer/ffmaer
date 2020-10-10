@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a [creative coder](http://tengchao.org/), [indie game designer](https://ffmaer.itch.io/) and [software engineer](https://instantaha.com/).
+I'm a [creative coder🎨](http://tengchao.org/), [indie game designer🎮](https://ffmaer.itch.io/) and [software engineer🧑‍💻](https://instantaha.com/).
 
 <!--
 **ffmaer/ffmaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
