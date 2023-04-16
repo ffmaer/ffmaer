@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a [media artist🎨](http://tengchao.org/), [game maker🎮](https://ffmaer.itch.io/).
+I'm a [media artist🎨](http://tengchao.org/) and a [game maker🎮](https://ffmaer.itch.io/).
 
 <!--
 **ffmaer/ffmaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
